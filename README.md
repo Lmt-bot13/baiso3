@@ -4,7 +4,9 @@ Họ và tên: Lưu Minh Trí
 
 MSSV: K2354801060104
 
----
+Giảng viên: Đỗ Duy Cốp
+
+Môn: Hệ QT CSDL
 
 # 1. Phân tích bài toán hệ thống
 
