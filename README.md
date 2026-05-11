@@ -34,6 +34,11 @@ Hệ thống sử dụng hai cơ chế tính lãi:
 
 # 2. Phân tích mô hình dữ liệu
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/490c550d-a64d-4ba2-9d5a-67e0a539b323" />
+
+Sơ đồ ERD
+
+
 ## 2.1. Quan hệ khách hàng và hợp đồng
 
 Một khách hàng có thể có nhiều hợp đồng cầm cố khác nhau.  
